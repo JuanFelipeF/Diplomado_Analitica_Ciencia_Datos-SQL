@@ -11,18 +11,18 @@ Identificar cuáles son los productos del menú que han tenido más éxito y cua
 
 Considerando:
 
-![Descripción de los campos en las bases de datos de Menú y Orden](Img/Ejercicio_práctico_SQL-1.jpg)
+![Descripción de los campos en las bases de datos de Menú y Orden](/Img/Ejercicio_práctico_SQL-1.jpg)
 
 ## Resultados
 De un total de 32 productos con origenes Americano, Italiano, Asiático y Mexicano, todos presentaron ventas. 
 
-![categorias por cantidad de platillos y monto de venta](Img/Categorias-1.PNG)
+![categorias por cantidad de platillos y monto de venta](/Img/Categorias-1.PNG)
 
 Entre las fechas "2023-01-01" y "2023-03-31" se realizarón 5370 pedidos únicos, teniendo como máximo hasta 14 platillos vendidos en un solo pedido. En prómedio, los costos de los platicos es 13.29. Existiron 137 ordenes que no lograron concretar consumo. 
 
 Los pedidos con order_id 440 y 2657 estan ambos en el top de cantidad de platillos y montos mayores.
 
-![Pedidos con mayor monto de venta](Img/image-1.png) ![Pedidos con mayor cantidad de platillos](image.png)
+![Pedidos con mayor monto de venta](/Img/image-1.png) ![Pedidos con mayor cantidad de platillos](/Img/image.png)
 
 ## Conclusiones
 
